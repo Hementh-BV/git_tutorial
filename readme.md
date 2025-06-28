@@ -1,6 +1,5 @@
-## Hello everyone welcome to my Git guid!
+## Welcome to Git
 
-- Yo dev hereere
+# This is from dev-2
 - I'm adding this 
-
-
+# feature implemened for feature branch
