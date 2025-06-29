@@ -7,3 +7,6 @@ print("Hello from dev-2")
 def fun():
     return "Hello working on this"
 
+def fun_2():
+    return "Hello working on this fun 2"
+
