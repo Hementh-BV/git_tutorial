@@ -4,3 +4,6 @@ print("Hello from dev-2")
 
 # urgent fix
 
+def fun():
+    return "Hello working on this"
+
