@@ -10,3 +10,5 @@ def fun():
 def fun_2():
     return "Hello working on this fun 2"
 
+def fun_3():
+    return "Hello working on this 3"
